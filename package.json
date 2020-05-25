@@ -1,0 +1,14 @@
+{
+  "name": "bot.js",
+  "version": "1.0.3",
+  "description": "",
+  "main": "bot.bot",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "son.yı biz koyarız",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
